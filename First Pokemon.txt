@@ -1,0 +1,5 @@
+Pika (Pikachu) (M)  
+Ability: Static  
+Level: 5  
+Tera Type: Electric  
+- Quick Attack
