@@ -1,5 +1,7 @@
-Pika (Pikachu) (M)  
+Pika (Pikachu) (M) @ Electric Gem  
 Ability: Static  
-Level: 5  
+Level: 12  
 Tera Type: Electric  
-- Quick Attack
+EVs: 64 HP / 4 Atk / 24 Def / 12 SpA / 12 SpD / 56 Spe  
+- Quick Attack  
+- Electro Ball
